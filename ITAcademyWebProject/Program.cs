@@ -13,6 +13,7 @@ namespace ITAcademyWebProject
     {
         public static void Main(string[] args)
         {
+            // Inch vor xeloq baner
             CreateHostBuilder(args).Build().Run();
         }
 

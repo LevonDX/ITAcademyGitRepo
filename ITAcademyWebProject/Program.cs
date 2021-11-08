@@ -13,8 +13,12 @@ namespace ITAcademyWebProject
     {
         public static void Main(string[] args)
         {
-            // Inch vor xeloq baner
+            // Inch vor xeloq baner, ssddasdas
             CreateHostBuilder(args).Build().Run();
+
+            // Login form created
+
+            // anorak code
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

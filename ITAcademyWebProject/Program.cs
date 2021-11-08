@@ -17,6 +17,8 @@ namespace ITAcademyWebProject
             CreateHostBuilder(args).Build().Run();
 
             // Login form created
+
+            // anorak code
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
